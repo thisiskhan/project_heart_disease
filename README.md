@@ -1,4 +1,4 @@
-# Predicting Heart Disease using Machine Learning
+# [Predicting Heart Disease using Machine Learning](https://colab.research.google.com/drive/1mtMTnJcYDF6148C6_whIjsJ8IEk2lnH1?usp=sharing#scrollTo=unsigned-devon)
 
 This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease **classification**.
 
