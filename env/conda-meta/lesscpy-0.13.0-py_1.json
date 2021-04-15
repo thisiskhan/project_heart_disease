@@ -1,0 +1,504 @@
+{
+  "build": "py_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ply",
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "/usr/local/Caskroom/miniconda/base/pkgs/lesscpy-0.13.0-py_1",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/PKG-INFO",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/SOURCES.txt",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/dependency_links.txt",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/entry_points.txt",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/installed-files.txt",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/requires.txt",
+    "lib/python3.8/site-packages/lesscpy-0.13.0-py2.7.egg-info/top_level.txt",
+    "lib/python3.8/site-packages/lesscpy/__init__.py",
+    "lib/python3.8/site-packages/lesscpy/__main__.py",
+    "lib/python3.8/site-packages/lesscpy/exceptions.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/__init__.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/color.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/formatter.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/lexer.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/parser.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/scope.py",
+    "lib/python3.8/site-packages/lesscpy/lessc/utility.py",
+    "lib/python3.8/site-packages/lesscpy/lib/__init__.py",
+    "lib/python3.8/site-packages/lesscpy/lib/colors.py",
+    "lib/python3.8/site-packages/lesscpy/lib/css.py",
+    "lib/python3.8/site-packages/lesscpy/lib/dom.py",
+    "lib/python3.8/site-packages/lesscpy/lib/reserved.py",
+    "lib/python3.8/site-packages/lesscpy/plib/__init__.py",
+    "lib/python3.8/site-packages/lesscpy/plib/block.py",
+    "lib/python3.8/site-packages/lesscpy/plib/call.py",
+    "lib/python3.8/site-packages/lesscpy/plib/deferred.py",
+    "lib/python3.8/site-packages/lesscpy/plib/expression.py",
+    "lib/python3.8/site-packages/lesscpy/plib/identifier.py",
+    "lib/python3.8/site-packages/lesscpy/plib/import_.py",
+    "lib/python3.8/site-packages/lesscpy/plib/keyframe_selector.py",
+    "lib/python3.8/site-packages/lesscpy/plib/mixin.py",
+    "lib/python3.8/site-packages/lesscpy/plib/negated_expression.py",
+    "lib/python3.8/site-packages/lesscpy/plib/node.py",
+    "lib/python3.8/site-packages/lesscpy/plib/property.py",
+    "lib/python3.8/site-packages/lesscpy/plib/statement.py",
+    "lib/python3.8/site-packages/lesscpy/plib/variable.py",
+    "lib/python3.8/site-packages/lesscpy/scripts/__init__.py",
+    "lib/python3.8/site-packages/lesscpy/scripts/compiler.py",
+    "lib/python3.8/site-packages/lesscpy/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/__pycache__/__main__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/color.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/formatter.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/lexer.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/parser.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/scope.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/utility.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lib/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lib/__pycache__/colors.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lib/__pycache__/css.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lib/__pycache__/dom.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/lib/__pycache__/reserved.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/block.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/call.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/deferred.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/expression.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/identifier.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/import_.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/keyframe_selector.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/mixin.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/negated_expression.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/node.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/property.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/statement.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/plib/__pycache__/variable.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/scripts/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/lesscpy/scripts/__pycache__/compiler.cpython-38.pyc",
+    "bin/lesscpy"
+  ],
+  "fn": "lesscpy-0.13.0-py_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/usr/local/Caskroom/miniconda/base/pkgs/lesscpy-0.13.0-py_1",
+    "type": 1
+  },
+  "md5": "84913832e1806f79f33b0b12e99a8d17",
+  "name": "lesscpy",
+  "noarch": "python",
+  "package_tarball_full_path": "/usr/local/Caskroom/miniconda/base/pkgs/lesscpy-0.13.0-py_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "042355750052197adc3cbecb19ed7aaec8a4b90bbf33c1c1e977826e7df5afd8",
+        "sha256_in_prefix": "042355750052197adc3cbecb19ed7aaec8a4b90bbf33c1c1e977826e7df5afd8",
+        "size_in_bytes": 6815
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "709380bcadf2b0b54a1e44025dcc4904ec84134e7b7407ceafdeac32e7e464f8",
+        "sha256_in_prefix": "709380bcadf2b0b54a1e44025dcc4904ec84134e7b7407ceafdeac32e7e464f8",
+        "size_in_bytes": 6192
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "000e27d59ac7f80a6b3564165b775bbd508565e3c861a7c79489ddbc3c06705b",
+        "sha256_in_prefix": "000e27d59ac7f80a6b3564165b775bbd508565e3c861a7c79489ddbc3c06705b",
+        "size_in_bytes": 58
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "65a9aab584962a5b49377f999aed9de7549d849c3eaf3c279b29a94b170d344a",
+        "sha256_in_prefix": "65a9aab584962a5b49377f999aed9de7549d849c3eaf3c279b29a94b170d344a",
+        "size_in_bytes": 1839
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "3fdf9ba1889b8e51fa1685193fa505e107cd49e24b627e2e5ba516b80a34cf03",
+        "sha256_in_prefix": "3fdf9ba1889b8e51fa1685193fa505e107cd49e24b627e2e5ba516b80a34cf03",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/lesscpy-0.13.0-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5ea6dd041f86a5ce4898f4769b5b8e6641cb196aed609e1c7cb0f3ddd74410aa",
+        "sha256_in_prefix": "5ea6dd041f86a5ce4898f4769b5b8e6641cb196aed609e1c7cb0f3ddd74410aa",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/lesscpy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "75bdcf601451462637e1510db72e4a9d46b66c59fd4b4d30c6c1a2e8f584e441",
+        "sha256_in_prefix": "75bdcf601451462637e1510db72e4a9d46b66c59fd4b4d30c6c1a2e8f584e441",
+        "size_in_bytes": 540
+      },
+      {
+        "_path": "site-packages/lesscpy/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "7b947315784c1b05f9af0754234212c8d6b7258d5f671877fc1b07df9f828263",
+        "sha256_in_prefix": "7b947315784c1b05f9af0754234212c8d6b7258d5f671877fc1b07df9f828263",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "site-packages/lesscpy/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "003a33e3d26c3f4e49b864f8872d148958558181d756d194026f9dc0e91720e6",
+        "sha256_in_prefix": "003a33e3d26c3f4e49b864f8872d148958558181d756d194026f9dc0e91720e6",
+        "size_in_bytes": 46
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ecb17abb96ef3f4473d8c726c56ca78c83d510e234651d78d77f3739c3401b15",
+        "sha256_in_prefix": "ecb17abb96ef3f4473d8c726c56ca78c83d510e234651d78d77f3739c3401b15",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/color.py",
+        "path_type": "hardlink",
+        "sha256": "3d47e86fe5eb754f133860bfab0915bff701e01eb5baf86ef893087753cbb6c0",
+        "sha256_in_prefix": "3d47e86fe5eb754f133860bfab0915bff701e01eb5baf86ef893087753cbb6c0",
+        "size_in_bytes": 14011
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/formatter.py",
+        "path_type": "hardlink",
+        "sha256": "f3b062a2051b564481aa1375712d683d684432b9e221064ecfb8b7509e5f56eb",
+        "sha256_in_prefix": "f3b062a2051b564481aa1375712d683d684432b9e221064ecfb8b7509e5f56eb",
+        "size_in_bytes": 1090
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/lexer.py",
+        "path_type": "hardlink",
+        "sha256": "0cec3835fe14a423e03cbb98648154165cff66cf577a9adff446c2c2998b346d",
+        "sha256_in_prefix": "0cec3835fe14a423e03cbb98648154165cff66cf577a9adff446c2c2998b346d",
+        "size_in_bytes": 13450
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/parser.py",
+        "path_type": "hardlink",
+        "sha256": "e69c32507b1965f72c679b4663c1a0b755dbcb1d9c3e2f3ed1f7ba2d4b7943eb",
+        "sha256_in_prefix": "e69c32507b1965f72c679b4663c1a0b755dbcb1d9c3e2f3ed1f7ba2d4b7943eb",
+        "size_in_bytes": 32736
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/scope.py",
+        "path_type": "hardlink",
+        "sha256": "40b530f7739d80c107a70893161dd7c119d0defa8869a39a0cbc7d2388b1755c",
+        "sha256_in_prefix": "40b530f7739d80c107a70893161dd7c119d0defa8869a39a0cbc7d2388b1755c",
+        "size_in_bytes": 5827
+      },
+      {
+        "_path": "site-packages/lesscpy/lessc/utility.py",
+        "path_type": "hardlink",
+        "sha256": "61c4e863349ff16d02369881a637da4c41aec935c1101810fa03b2f0f28a2ec7",
+        "sha256_in_prefix": "61c4e863349ff16d02369881a637da4c41aec935c1101810fa03b2f0f28a2ec7",
+        "size_in_bytes": 6951
+      },
+      {
+        "_path": "site-packages/lesscpy/lib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/lesscpy/lib/colors.py",
+        "path_type": "hardlink",
+        "sha256": "867ac53a6112ed50ba77ce3d5129d8aa6ce78cf856c8d9398b1f1a21a3b071a7",
+        "sha256_in_prefix": "867ac53a6112ed50ba77ce3d5129d8aa6ce78cf856c8d9398b1f1a21a3b071a7",
+        "size_in_bytes": 4126
+      },
+      {
+        "_path": "site-packages/lesscpy/lib/css.py",
+        "path_type": "hardlink",
+        "sha256": "71690ede7bb8a9cd278457663167e26e5a3c4058144de84fe5a4d1768005632c",
+        "sha256_in_prefix": "71690ede7bb8a9cd278457663167e26e5a3c4058144de84fe5a4d1768005632c",
+        "size_in_bytes": 8272
+      },
+      {
+        "_path": "site-packages/lesscpy/lib/dom.py",
+        "path_type": "hardlink",
+        "sha256": "9391670819983c9fb504534c0d38ef60dd0a2b9c7e6a3e4ceffd27ad623a4723",
+        "sha256_in_prefix": "9391670819983c9fb504534c0d38ef60dd0a2b9c7e6a3e4ceffd27ad623a4723",
+        "size_in_bytes": 2044
+      },
+      {
+        "_path": "site-packages/lesscpy/lib/reserved.py",
+        "path_type": "hardlink",
+        "sha256": "f656a398ac2d9387013041d922e72e30e553223e279083a091125d4ca85ba573",
+        "sha256_in_prefix": "f656a398ac2d9387013041d922e72e30e553223e279083a091125d4ca85ba573",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "73c43166fc89ed45cf4130b820f753e5e9e27b35e12d90f217e49a738886d3bb",
+        "sha256_in_prefix": "73c43166fc89ed45cf4130b820f753e5e9e27b35e12d90f217e49a738886d3bb",
+        "size_in_bytes": 841
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/block.py",
+        "path_type": "hardlink",
+        "sha256": "bc482259b3ef90e3a8ea9bb1efd8dbea57a3b42b5bcbb336588334e10a76091f",
+        "sha256_in_prefix": "bc482259b3ef90e3a8ea9bb1efd8dbea57a3b42b5bcbb336588334e10a76091f",
+        "size_in_bytes": 8437
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/call.py",
+        "path_type": "hardlink",
+        "sha256": "e1a67c5ceae6206c2f3d321de70e9d0f0acd47a73c57fcff69375d0e95851722",
+        "sha256_in_prefix": "e1a67c5ceae6206c2f3d321de70e9d0f0acd47a73c57fcff69375d0e95851722",
+        "size_in_bytes": 6250
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/deferred.py",
+        "path_type": "hardlink",
+        "sha256": "4b829bd3a153619c27d0e52716c4ca5ed37a9244f3aded73819c7910ec310e23",
+        "sha256_in_prefix": "4b829bd3a153619c27d0e52716c4ca5ed37a9244f3aded73819c7910ec310e23",
+        "size_in_bytes": 3960
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/expression.py",
+        "path_type": "hardlink",
+        "sha256": "740c39bf1997734bdb058c23133e840d5e77cd4860751df4a2215667c21353e2",
+        "sha256_in_prefix": "740c39bf1997734bdb058c23133e840d5e77cd4860751df4a2215667c21353e2",
+        "size_in_bytes": 3550
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/identifier.py",
+        "path_type": "hardlink",
+        "sha256": "e848937068f92181e2d9b20c92d2d47b457391503ff31e4c9ca8d15b8d067682",
+        "sha256_in_prefix": "e848937068f92181e2d9b20c92d2d47b457391503ff31e4c9ca8d15b8d067682",
+        "size_in_bytes": 6414
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/import_.py",
+        "path_type": "hardlink",
+        "sha256": "6d9ec02a557b55bfb6da00e6b8c0552c0ad4138ac8dc78e27e5d963dfad6c06b",
+        "sha256_in_prefix": "6d9ec02a557b55bfb6da00e6b8c0552c0ad4138ac8dc78e27e5d963dfad6c06b",
+        "size_in_bytes": 820
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/keyframe_selector.py",
+        "path_type": "hardlink",
+        "sha256": "dda9b8cc6c7d2ade87cfb4c7d3764d2b6e7ebe34d969778e4c322a84eae7df3f",
+        "sha256_in_prefix": "dda9b8cc6c7d2ade87cfb4c7d3764d2b6e7ebe34d969778e4c322a84eae7df3f",
+        "size_in_bytes": 1180
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/mixin.py",
+        "path_type": "hardlink",
+        "sha256": "bc0d10f1efeedf43dd3eecbe8cfb1055e70df87fa380b2543ac35a3b3227b658",
+        "sha256_in_prefix": "bc0d10f1efeedf43dd3eecbe8cfb1055e70df87fa380b2543ac35a3b3227b658",
+        "size_in_bytes": 5100
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/negated_expression.py",
+        "path_type": "hardlink",
+        "sha256": "72ae8b1fca4f8b612c770a0b9ecdd6cf5e68fee95e5248903a0e8b4223b1abbb",
+        "sha256_in_prefix": "72ae8b1fca4f8b612c770a0b9ecdd6cf5e68fee95e5248903a0e8b4223b1abbb",
+        "size_in_bytes": 466
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/node.py",
+        "path_type": "hardlink",
+        "sha256": "2d0af71ff01d0205ea2e4e9393c1cd76bc880e78bfac3d7bc6c00a43621068a3",
+        "sha256_in_prefix": "2d0af71ff01d0205ea2e4e9393c1cd76bc880e78bfac3d7bc6c00a43621068a3",
+        "size_in_bytes": 2302
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/property.py",
+        "path_type": "hardlink",
+        "sha256": "6cff4e13e8b35b87c3a187652c121c1b358e69d8bac20d4a95df0e0bd8edd9ce",
+        "sha256_in_prefix": "6cff4e13e8b35b87c3a187652c121c1b358e69d8bac20d4a95df0e0bd8edd9ce",
+        "size_in_bytes": 2661
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/statement.py",
+        "path_type": "hardlink",
+        "sha256": "4483807f87de6dbb989df8c388d1e42ca2847e844d5e5ecb87975483e3c13cb1",
+        "sha256_in_prefix": "4483807f87de6dbb989df8c388d1e42ca2847e844d5e5ecb87975483e3c13cb1",
+        "size_in_bytes": 964
+      },
+      {
+        "_path": "site-packages/lesscpy/plib/variable.py",
+        "path_type": "hardlink",
+        "sha256": "596b3634175a369dbd86d0688934a880caf82d09aa72b056a84c6a77f027d9a6",
+        "sha256_in_prefix": "596b3634175a369dbd86d0688934a880caf82d09aa72b056a84c6a77f027d9a6",
+        "size_in_bytes": 929
+      },
+      {
+        "_path": "site-packages/lesscpy/scripts/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/lesscpy/scripts/compiler.py",
+        "path_type": "hardlink",
+        "sha256": "082a81186c7e95bcb3048ea9a90717d130dd5eea6d2c7facf2287c77c53ef7a4",
+        "sha256_in_prefix": "082a81186c7e95bcb3048ea9a90717d130dd5eea6d2c7facf2287c77c53ef7a4",
+        "size_in_bytes": 8353
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/color.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/formatter.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/lexer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/parser.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/scope.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lessc/__pycache__/utility.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lib/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lib/__pycache__/colors.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lib/__pycache__/css.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lib/__pycache__/dom.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/lib/__pycache__/reserved.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/block.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/call.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/deferred.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/expression.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/identifier.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/import_.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/keyframe_selector.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/mixin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/negated_expression.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/node.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/property.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/statement.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/plib/__pycache__/variable.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/scripts/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/lesscpy/scripts/__pycache__/compiler.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/lesscpy",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "lesscpy==0.13.0=py_1",
+  "sha256": "e5bc94e618ec89d8017b4aaf10d398849e8ec435d82e1737dadb9c2620aeaebe",
+  "size": 35949,
+  "subdir": "noarch",
+  "timestamp": 1531607321012,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/lesscpy-0.13.0-py_1.tar.bz2",
+  "version": "0.13.0"
+}

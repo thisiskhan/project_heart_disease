@@ -1,0 +1,32 @@
+{
+  "build": "mkl",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "mkl"
+  ],
+  "extracted_package_dir": "/usr/local/Caskroom/miniconda/base/pkgs/blas-1.0-mkl",
+  "features": "",
+  "files": [],
+  "fn": "blas-1.0-mkl.tar.bz2",
+  "license": "BSD 3-clause",
+  "link": {
+    "source": "/usr/local/Caskroom/miniconda/base/pkgs/blas-1.0-mkl",
+    "type": 1
+  },
+  "md5": "d209421784932e3ec3ca90f92e159b21",
+  "name": "blas",
+  "package_tarball_full_path": "/usr/local/Caskroom/miniconda/base/pkgs/blas-1.0-mkl.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "blas==1.0=mkl",
+  "sha256": "df5c79af0758074c8983db21fc7b621a3f087ef107ae251ac257c750b5f65b9d",
+  "size": 1307,
+  "subdir": "osx-64",
+  "track_features": "blas_mkl",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/blas-1.0-mkl.tar.bz2",
+  "version": "1.0"
+}
