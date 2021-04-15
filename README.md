@@ -131,6 +131,3 @@ The following are the features we'll use to predict our target variable (heart d
 14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 **Note:** No personal identifiable information (PPI) can be found in the dataset.
-
-It's a good idea to save these to a Python dictionary or in an external file, so we can look at them later without coming back here.
-
